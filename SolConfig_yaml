@@ -1,0 +1,8 @@
+exchange: drift
+symbol: BTC-PERP
+paper_trading: true
+risk_percent_per_trade: 0.33
+
+drift:
+  api_key: "your_drift_api_key"
+  api_secret: "your_drift_api_secret"
