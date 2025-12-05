@@ -1,0 +1,10 @@
+ccxt==4.3.30
+ccxt-async-support
+pandas
+numpy
+pyyaml
+schedule
+asyncio
+solders
+solana-py
+base58
