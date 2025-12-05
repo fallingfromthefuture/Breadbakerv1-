@@ -1,0 +1,4 @@
+exchange: base
+symbol: BTC-USD
+paper_trading: true
+risk_percent_per_trade: 0.33
