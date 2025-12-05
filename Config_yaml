@@ -1,0 +1,7 @@
+exchange: hyperliquid
+symbol: BTC-PERP
+paper_trading: true
+risk_percent_per_trade: 0.33
+
+hyperliquid:
+  private_key: "0xYOUR_FULL_PRIVATE_KEY_HERE"
